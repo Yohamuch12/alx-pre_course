@@ -1,1 +1,1 @@
-my first git readme
+I wish it will get easier.
